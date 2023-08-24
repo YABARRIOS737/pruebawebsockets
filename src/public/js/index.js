@@ -4,6 +4,7 @@ const messageLogs = document.getElementById("messageLogs");
 let usuario = "";
 let foto = "";
 
+
 Swal.fire({
     title: "Bienvenida",
     text: "Ingrese su nombre",
